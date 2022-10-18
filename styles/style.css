@@ -1,0 +1,38 @@
+/* @import url('https://fonts.googleapis.com/css2?family=Comic+Neue:ital,wght@0,400;0,700;1,400;1,700&display=swap'); */
+
+html{
+  font-family: 'Comic Neue';
+  font-size: 2rem;
+  color:goldenrod;
+  background-color: #00539F;
+}
+body{
+  background-color: antiquewhite;
+  border:2px solid red;
+  width:50%;
+  margin:0 auto;
+  padding:50px;
+}
+
+.list{
+color:black;
+font-weight: regular;
+}
+
+.inner_list{
+  color:green;
+  font-weight: bold;
+
+}
+
+h1{
+  margin:0;
+  padding:0;
+  text-shadow: 5px 5px 5px gray;
+}
+
+img{
+  display: block;
+  width: 200px;
+  height: auto;
+}
